@@ -1,0 +1,36 @@
+C:\Ulrich\Programação\AppMediCadastro\bin\Debug\AppMediCadastro.exe.config
+C:\Ulrich\Programação\AppMediCadastro\bin\Debug\AppMediCadastro.exe
+C:\Ulrich\Programação\AppMediCadastro\bin\Debug\AppMediCadastro.pdb
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.csproj.AssemblyReference.cache
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.frmPrincipal.resources
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.Properties.Resources.resources
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.csproj.GenerateResource.cache
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.csproj.CoreCompileInputs.cache
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.exe
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.pdb
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.frmCadMedicamentos.resources
+C:\Ulrich\Programação\AppMediCadastro\obj\Debug\AppMediCadastro.frmVisualizarMedicamentos.resources
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\bin\Debug\AppMediCadastro.exe.config
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\bin\Debug\AppMediCadastro.exe
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\bin\Debug\AppMediCadastro.pdb
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.frmCadMedicamentos.resources
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.frmPrincipal.resources
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.frmVisualizarMedicamentos.resources
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.Properties.Resources.resources
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.csproj.GenerateResource.cache
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.exe
+C:\Users\Unifafibe\Desktop\AppMediCadastro (1)\obj\Debug\AppMediCadastro.pdb
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\bin\Debug\AppMediCadastro.exe.config
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\bin\Debug\AppMediCadastro.exe
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\bin\Debug\AppMediCadastro.pdb
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.frmCadMedicamentos.resources
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.frmPrincipal.resources
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.frmVisualizarMedicamentos.resources
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.Properties.Resources.resources
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.csproj.GenerateResource.cache
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.exe
+C:\Users\Unifafibe\Desktop\SoftwareCadMed\obj\Debug\AppMediCadastro.pdb
